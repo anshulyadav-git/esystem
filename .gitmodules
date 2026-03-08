@@ -1,0 +1,3 @@
+[submodule "flutter_frontend"]
+	path = flutter_frontend
+	url = https://github.com/anshulyadav-git/flutter_frontend.git
