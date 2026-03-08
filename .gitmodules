@@ -1,3 +1,6 @@
 [submodule "flutter_frontend"]
 	path = flutter_frontend
 	url = https://github.com/anshulyadav-git/flutter_frontend.git
+[submodule "nextjs-supabase"]
+	path = nextjs-supabase
+	url = https://github.com/anshulyadav-git/nextjs-supabase.git
